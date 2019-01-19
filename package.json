@@ -1,5 +1,5 @@
 {
-  "name": "randomstringmodule",
+  "name": "@roiteee/randomstringmodule",
   "version": "0.10.0",
   "description": "A module that returns alphanumeric strings",
   "main": "server.js",
