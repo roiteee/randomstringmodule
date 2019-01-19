@@ -14,6 +14,6 @@ module.exports = {
     },
 
     MyName: function(){
-        return "Rohit B. Thapa"
+        return "Rohit B. Thapa";
     }
 }
