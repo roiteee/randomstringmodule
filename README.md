@@ -1,4 +1,17 @@
-Readme test file.
+# randomstringmodule
+A module that returns alphanumeric strings
 
+## HOW TO INSTALL
+# npm install randomstringmodule --save
 
-Hello Testing Testing!
+## HOW TO USE
+var random = require('randomstringmodule');
+
+```javascript
+## METHOD
+
+#RandomChar
+This method takes in an integer value which specifies the length of the returned strings.
+
+console.log(random.RandomChar(10))
+// Returns b2jdkeos3k
