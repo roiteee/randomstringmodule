@@ -11,5 +11,9 @@ module.exports = {
         }
 
         return str;
+    },
+
+    MyName: function(){
+        return "Rohit B. Thapa"
     }
 }
